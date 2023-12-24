@@ -34,8 +34,8 @@ model = tf.keras.models.Sequential([
 
 ### How to Use
 
-1. Clone the repository: git clone https://github.com/ridhwancahyadi/rock-paper-scissors-classifier.git
-2. Open the test_rockpaper_scissors.ipynb notebook in a Jupyter environment.
+1. Clone the repository: https://github.com/ridhwancahyadi/rock-paper-scissors-classifier.git
+2. Open the _test_rockpaper_scissors.ipynb_ notebook in a Jupyter environment.
 3. Run the notebook cells to train the model and evaluate its performance.
 4. After training, you can use the model to predict new images. The notebook includes an example of predicting rock, paper, or scissors from uploaded images.
 
